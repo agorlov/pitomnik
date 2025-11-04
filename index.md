@@ -1,20 +1,6 @@
 
 <!-- Щенки на продажу -->
 
-## Щенки на продажу
-
-### Есть малыш Русской цветной болонки
-
-Малыш Русской цветной болонки ждёт своих хозяев!
-
-- Д.р 30.05.2024г, прививки и обработки в соответствии с возрастом.
-- Очень весёлый, общительный, любознательный мальчик.
-- При себе имеет полный пакет документов (метрика РКФ, ветеринарный паспорт, договор)🌟🌟🌟
-- Все подробности в ЛС или по тел.+7 921 633 22 21 Виктория Михайловна
-
-![photo_2024-08-07_20-53-28](https://github.com/user-attachments/assets/fdfeb786-5e10-4e42-9eaf-e1e5063a0eb1)
-
-
 <!-- div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
    <div style="width: 45%;">
       <h3>Грейт Гардарика **Измира**</h3>
@@ -102,15 +88,9 @@ PRA-NN, PLL-NN
             <p>VK: 
                 <a href="https://vk.com/pitomniksobak" target="_blank">https://vk.com/pitomniksobak</a>
             </p>
-
-                Facebook: 
-
-
-            <ul>
-                <li><a href="https://m.facebook.com/victoria.gorlova.9" target="_blank">Виктория Горлова</a></li>
-                <li><a href="https://m.facebook.com/profile.php?id=100011614756006" target="_blank">Мария Гришина</a></li>
-            </ul>
-
+            <p>Сайт Грейт Гардарика: 
+                <a href="https://greatgardarika.ru" target="_blank">https://greatgardarika.ru</a>
+            </p>
 
             <p>
                 Руководители: <b>Гришина М.И.</b>, <b>Горлова В.М.</b>
